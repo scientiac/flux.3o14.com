@@ -14,4 +14,4 @@ Before believing anything I write, first think about it yourself.
 _And I am not an AI, and I don't use AI to write these posts, so you can trust me if you trust a real human.
 But, I do use AI sometimes to "get validated on something" or to do repititive tasks._
 
-[_Don't worry, I proofread everything and don't let AI add any words to my text._]
+[_Don't worry, I don't even fix my spellings using AI._]
