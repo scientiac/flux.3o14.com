@@ -11,9 +11,3 @@ I am trying to learn Haskell and Rust. [_More like, wanting to learn..._]
 
 Sitting now.  
 [_I just love walking though._]
-
-Trying to make a react native app to update this blog on the go via a smartphone easily. [_wish me luck!_] 
-
-Wohoo!
-
-[_Trying_]
