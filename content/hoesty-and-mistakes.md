@@ -28,7 +28,7 @@ that I cannot lie and even if I try, I will cave and give the truth after some t
 To know about things is such a burden. It was very easy to make jokes and comments and just talk when I didn't know about political correctness and all the 
 things a person can be. Now that I have a basic knowledge about thing every word has to be filtered, and well thought through.
 
-[_Thing I want to say. > Is it racist? > Is it sexist? > Is it misogynistic? > Is it conservative? > and on and on and on... _] I don't want to be any of those things.
+[_ Thing I want to say. > Is it racist? > Is it sexist? > Is it misogynistic? > Is it conservative? > and on and on and on... _] I don't want to be any of those things.
 I am not any of those things, but I also don't want to be framed as any of those things due to my poor choice of words. But, that's too much of processing to do 
 for a normal friendly conversation and I hate it. [_hatebonding?_]
 
