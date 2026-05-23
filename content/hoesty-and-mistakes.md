@@ -5,7 +5,7 @@ date = 2026-05-23T06:24:25+05:45
 tags = ["self"]
 +++
 
-I love science and the scientific method because it is a simple concept, if it true with the current proof until something disproves it.
+I love science and the scientific method because it is a simple concept; it is true with the current proof until something disproves it.
 And, I have always treated the factual start of things as is when commentating with people which makes me "direct" and a straight talker.
 
 When I realized that most people didn't like how I communicated, I began to make every sentence I state also be a sarcastic point.
