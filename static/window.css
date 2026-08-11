@@ -40,14 +40,6 @@ body.animation-ready {
 
 @keyframes sunrise {
   0% {
-    background-color: var(--night);
-  }
-
-  10% {
-    background-color: var(--dawn);
-  }
-
-  35% {
     background-color: var(--morning);
   }
 
@@ -156,7 +148,7 @@ body.animation-ready {
   display: flex;
   flex-direction: column;
   align-items: end;
-  gap: 60px;
+  gap: 20px;
   transition: gap 1.0s var(--timing-fn);
 }
 
