@@ -54,6 +54,10 @@ body.animation-ready {
 
 @keyframes blinds-open {
   0% {
+    gap: 50px;
+  }
+  
+  60% {
     gap: 60px;
   }
 
@@ -64,6 +68,10 @@ body.animation-ready {
 
 @keyframes shutters-move {
   0% {
+    height: 40px;
+  }
+  
+  60% {
     height: 60px;
   }
 
