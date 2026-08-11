@@ -8,6 +8,7 @@
       <head>
         <title>Feed | <xsl:value-of select="/rss/channel/title | /atom:feed/atom:title"/></title>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <link rel="stylesheet" type="text/css" href="/window.css" />
         <link rel="stylesheet" type="text/css" href="/style.css" />
         <style type="text/css">
           header {
@@ -25,6 +26,46 @@
         </style>
       </head>
       <body>
+
+  <div id="dappled-light">
+    <div id="glow"></div>
+    <div id="glow-bounce"></div>
+    <div class="perspective">
+      <div id="blinds">
+        <div class="shutters">
+          <div class="shutter"></div>
+          <div class="shutter"></div>
+          <div class="shutter"></div>
+          <div class="shutter"></div>
+          <div class="shutter"></div>
+          <div class="shutter"></div>
+          <div class="shutter"></div>
+          <div class="shutter"></div>
+          <div class="shutter"></div>
+          <div class="shutter"></div>
+          <div class="shutter"></div>
+          <div class="shutter"></div>
+          <div class="shutter"></div>
+          <div class="shutter"></div>
+          <div class="shutter"></div>
+          <div class="shutter"></div>
+          <div class="shutter"></div>
+          <div class="shutter"></div>
+          <div class="shutter"></div>
+          <div class="shutter"></div>
+          <div class="shutter"></div>
+          <div class="shutter"></div>
+          <div class="shutter"></div>
+        </div>
+      </div>
+    </div>
+    <div id="progressive-blur">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+  </div>
 
         <header>
           <h1><xsl:value-of select="/rss/channel/title | /atom:feed/atom:title"/></h1>

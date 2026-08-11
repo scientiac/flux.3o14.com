@@ -1,11 +1,10 @@
-article, .h-entry, .spacing, p, h1, h2, h3, footer, summary, details {
+article, .h-entry, .spacing, p, h1, h2, h3, footer, summary, details, span {
   isolation: isolate;
 }
 
 article a {
   color: var(--dark);
 }
-
 
 body {
   --day: #fffdfa;
@@ -159,20 +158,6 @@ body.animation-ready {
   align-items: end;
   gap: 60px;
   transition: gap 1.0s var(--timing-fn);
-}
-
-#blinds>.vertical {
-  top: 0;
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  display: flex;
-  justify-content: space-around;
-}
-
-.vertical>.bar {
-  width: 5;
-  height: 100%;
 }
 
 .shutter {
