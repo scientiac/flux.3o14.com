@@ -34,17 +34,41 @@ body {
 
 body.animation-ready {
   animation-play-state: running;
-  animation-duration: 1s;
+  animation-duration: 2s;
   animation-name: sunrise;
 }
 
 @keyframes sunrise {
   0% {
+    background-color: var(--day);
+  }
+  
+  60% {
     background-color: var(--morning);
   }
 
   100% {
     background-color: var(--day);
+  }
+}
+
+@keyframes blinds-open {
+  0% {
+    gap: 60px;
+  }
+
+  100% {
+    gap: 50px;
+  }
+}
+
+@keyframes shutters-move {
+  0% {
+    height: 60px;
+  }
+
+  100% {
+    height: 40px;
   }
 }
 
@@ -133,7 +157,6 @@ body.animation-ready {
       0.0000, 0.0000, 0.0000, 1.0000);
 }
 
-
 #blinds {
   position: relative;
   width: 100%;
@@ -144,19 +167,22 @@ body.animation-ready {
   background-color: var(--shadow);
 }
 
-#blinds>.shutters {
+#blinds > .shutters {
   display: flex;
   flex-direction: column;
   align-items: end;
-  gap: 20px;
-  transition: gap 1.0s var(--timing-fn);
+
+  /* Morning starting state */
+  gap: 60px;
+
+  animation: blinds-open 2s var(--timing-fn) forwards;
 }
 
 .shutter {
   width: 100%;
-  height: 40px;
-  transition: height 1.0s var(--timing-fn);
+
+  /* Morning starting state */
+  height: 80px;
+
+  animation: shutters-move 2s var(--timing-fn) forwards;
 }
-
-
-

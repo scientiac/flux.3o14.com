@@ -141,7 +141,6 @@
 }
 
 body {
-  background-color: var(--color-bg-body);
   margin: 0 auto;
   padding: 8em 1em 1em 1em;
   color: var(--color-text-primary);
