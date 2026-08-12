@@ -222,3 +222,10 @@ article, .h-entry, .spacing, p, h1, h2, h3, footer, summary, details, span {
       -12px 6px 6px var(--sun-shadow-color);
   }
 }
+
+img {
+  box-shadow: 
+      -2px 2px 3px var(--sun-shadow-color),
+      -4px 4px 6px var(--sun-shadow-color),
+      -6px 6px 10px var(--sun-shadow-color);
+}
