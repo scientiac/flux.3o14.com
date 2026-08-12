@@ -520,19 +520,19 @@ tr:hover {
 
 /* Different icons for likes and reposts */
 .mention-profile.like::after {
-  content: "â™¡";
+  content: "♡";
   color: var(--color-accent-primary);
   font-weight: bold;
 }
 
 .mention-profile.link::after {
-  content: "âŽ";
+  content: "⁎";
   color: var(--color-accent-primary);
   font-weight: bold;
 }
 
 .mention-profile.reply::after {
-  content: "âœ‰";
+  content: "✉";
   color: var(--color-accent-primary);
   font-size: 1rem;
   font-weight: bold;
