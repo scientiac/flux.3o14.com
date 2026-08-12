@@ -19,6 +19,8 @@ body {
   --dark: var(--night);
   --shadow: #1a1917;
   --bounce-light: #f5d7a6;
+  --sun-shadow-color: rgba(26, 25, 23, 0.125);
+
   --timing-fn: cubic-bezier(0.455, 0.190, 0.000, 0.985);
 
   margin: 0;
@@ -193,4 +195,30 @@ body.animation-ready {
   height: 80px;
 
   animation: shutters-move 2s var(--timing-fn) forwards;
+}
+
+article, .h-entry, .spacing, p, h1, h2, h3, footer, summary, details, span {
+  color: var(--dark);
+  animation: text-sun-shadow 2s var(--timing-fn) forwards;
+}
+
+@keyframes text-sun-shadow {
+  0% {
+    text-shadow: 
+      -4px 2px 2px var(--sun-shadow-color),
+      -8px 4px 4px var(--sun-shadow-color),
+      -12px 6px 6px var(--sun-shadow-color);
+  }
+  60% {
+    text-shadow: 
+      -2px 2px 3px var(--sun-shadow-color),
+      -4px 4px 6px var(--sun-shadow-color),
+      -6px 6px 10px var(--sun-shadow-color);
+  }
+  100% {
+    text-shadow: 
+      -4px 2px 2px var(--sun-shadow-color),
+      -8px 4px 4px var(--sun-shadow-color),
+      -12px 6px 6px var(--sun-shadow-color);
+  }
 }
