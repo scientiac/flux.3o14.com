@@ -306,7 +306,6 @@ time sup {
   text-decoration: none;
   color: inherit;
   flex-grow: 1;
-  white-space: nowrap;
 }
 
 .listing time {
