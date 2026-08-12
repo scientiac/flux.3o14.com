@@ -344,6 +344,8 @@ time sup {
 footer {
   display: flex;
   justify-content: center;
+  text-align: center;
+  line-height: 3rem;
   margin: 8rem 0 2.5rem 0;
 }
 
@@ -518,19 +520,19 @@ tr:hover {
 
 /* Different icons for likes and reposts */
 .mention-profile.like::after {
-  content: "♡";
+  content: "â™¡";
   color: var(--color-accent-primary);
   font-weight: bold;
 }
 
 .mention-profile.link::after {
-  content: "⁎";
+  content: "âŽ";
   color: var(--color-accent-primary);
   font-weight: bold;
 }
 
 .mention-profile.reply::after {
-  content: "✉";
+  content: "âœ‰";
   color: var(--color-accent-primary);
   font-size: 1rem;
   font-weight: bold;
