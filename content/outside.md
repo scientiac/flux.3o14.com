@@ -15,7 +15,7 @@ I can see the birds chirping their songs.
 Monkeys swinging and the crickets creaking.  
 In this beauty of chaos, peace, is what I'm feeling.  
 
-It's been hours. My sweet has all dried up.  
+It's been hours. My sweat has all dried up.  
 My clothes are dry and I'm not tired.  
 My legs well rested, breath it's calm.  
 This place is cool. I crave something warm.   
