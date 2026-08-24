@@ -130,7 +130,7 @@
    ============================================ */
 
 * {
-  --column-width: 75ch;
+  --column-width: 70ch;
   --font-family: "Libertinus", P052, serif;
   --font-family-sans: system-ui, sans-serif;
   --font-family-mono: "Fantasque Sans Mono", ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas, "DejaVu Sans Mono", monospace;
