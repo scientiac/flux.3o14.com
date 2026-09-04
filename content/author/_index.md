@@ -15,3 +15,6 @@ _And I am not an AI, and I don't use AI to write these posts, so you can trust m
 But, I do use AI sometimes to "get validated on something" or to do repititive tasks._
 
 [_Don't worry, I don't even fix my spellings using AI._]
+
+This site is *Heavily* **Heavily** [_Heavily_] inspired by [Manu's](https://manuelmoreale.com/) site.
+I loved the design so much, that I ported it to zola, and it is perfect. Love you dude!
