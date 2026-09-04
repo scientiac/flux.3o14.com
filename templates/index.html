@@ -17,7 +17,7 @@
             {{ content | safe }}
         </div>
 
-        <div class="date">
+        <div class="date hidden">
           {% if latest_post.date %}
               <time class="dt-published" datetime="{{ latest_post.date | date(format="%Y-%m-%dT%H:%M:%SZ") }}">
                   {{ latest_post.date | date(format="%B %-d, %Y") }}

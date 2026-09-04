@@ -2,7 +2,7 @@
 
 {% block content %}
 <div class="logs">
-  <h1 class="p-name"><a href="{{ config.base_url }}">#{{ term.name }}</a></h1>
+  <h1 class="p-name"><a href="{{ config.base_url }}">*{{ term.name }}</a></h1>
 
   {% set tag_section = get_section(path="tags/_index.md") %}
   {% for p in tag_section.pages %}

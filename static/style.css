@@ -283,7 +283,7 @@ time sup {
 }
 
 .u-category:before {
-  content: "#";
+  content: "*";
 }
 
 .u-category {
@@ -561,3 +561,8 @@ tr:hover {
     mask-position: 0 50%;
   }
 }
+
+.hidden {
+  display: none;
+}
+
