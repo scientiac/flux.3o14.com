@@ -8,7 +8,6 @@
       <head>
         <title>Feed | <xsl:value-of select="/rss/channel/title | /atom:feed/atom:title"/></title>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
-        <link rel="stylesheet" type="text/css" href="/window.css" />
         <link rel="stylesheet" type="text/css" href="/style.css" />
         <style type="text/css">
           header {
