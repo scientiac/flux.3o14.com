@@ -55,7 +55,7 @@ The laptop could only handle one browser and that was all.
 The next day I searched the whole house for my dad's pendrive, found a 2GB drive and started searching for Linux distros. My choice was either mint or ubuntu but eventually I realized
 that the only ISO I can burn in that tiny pendrive was the Arch ISO. I spent the whole day installing Arch Linux and the whole night fixing the WI-FI drivers. So, I have a very little knowledge about windows. Because, arch ran like butter with multiple apps running simultaneously compared to Windows 11 Dev Edition. Dad didn't know the difference between Linux and Windows so, he didn't mind. We used to go on morning walks and I used to explain what RAM, Processors, Linux, Distro, DE etc. were. He used to keep nodding and I used to explain passionately.
 
-![Nokia X2](/assets/images/hp.jpg)
+![HP](/assets/images/hp.jpg)
 
 <div align=center>
 
