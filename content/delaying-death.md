@@ -9,4 +9,4 @@ tags = ["thoughts"]
 
 You eat food to delay death, you breathe to delay death. The eventual finality is death.
 
-When you discredit someone's passion you kill some of their willingness to live. The perception of their self worth decreases, the will to delay their death decreases.
+When you discredit someone's passion you kill some of their willingness to live. The perception of their self worth decreases, the will to delay death decreases.
